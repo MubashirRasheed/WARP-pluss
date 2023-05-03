@@ -2,7 +2,7 @@
 <a name="warp-unlimited-new-methods"></a>
 
 # ♻️ WARP UNLIMITED ADVANCED
-**Get unlimited amount of data in Cloudflare's WARP, most vrsatile code written in our beloved Python! ethically of course**
+**Get unlimited amount of data in Cloudflare's WARP, most vrsatile code written in our beloved Python! ethically of cours**
 </div>
 
 ## **📑 INDEX**
